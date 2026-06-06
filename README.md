@@ -163,9 +163,8 @@ class Pranathi:
 
 💻 **IBM Z Datathon** Participant
 
-🛠 **Student Coordinator** — College Technical Club
+🛠 **Student Coordinator** — College Cultural Club
 
-📊 **CGPA: 8.77** @ Global Academy of Technology
 
 </td>
 </tr>
