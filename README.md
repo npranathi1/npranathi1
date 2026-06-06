@@ -25,8 +25,8 @@
 class Pranathi:
     name        = "Pranathi N"
     role        = ["AI & ML Engineer", "XAI Enthusiast"]
-    education   = "B.Tech CSE (AI & ML) @ GAT Bengaluru  |  CGPA: 8.77"
-    goal        = "Internship / Remote ML Role — 2025"
+    education   = "B.Tech CSE (AI & ML) @ GAT Bengaluru"
+    goal        = "Internships / Remote ML Role — 2026"
 
     interests   = [
         "Explainable AI  — making black boxes transparent",
@@ -37,8 +37,7 @@ class Pranathi:
 
     currently   = {
         "building"  : "MoodScript — multimodal emotion AI with LIME explainability",
-        "learning"  : "Agentic AI, RAG pipelines, Vision Transformers",
-        "proud_of"  : "R² = 0.982 on AQI forecasting with hybrid XGBoost+LSTM",
+        "learning"  : "Agentic AI, XAI, Vision Transformers"
     }
 
     achievement = "Research Poster Presentation — MIT Bengaluru, Turinger'24"
@@ -105,9 +104,8 @@ class Pranathi:
 
 💻 **IBM Z Datathon** Participant
 
-🛠 **Student Coordinator** — College Technical Club
+🛠 **Student Coordinator** — College Cultural Club
 
-📊 **CGPA: 8.77** @ Global Academy of Technology, Bengaluru
 
 ---
 
