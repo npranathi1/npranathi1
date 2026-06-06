@@ -1,84 +1,91 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — uses capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=180&section=header&text=Pranathi%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20CSE(AIML)%20%40%20GAT%20Bengaluru&descAlignY=58&descColor=e1f5ee)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=200&section=header&text=Pranathi%20N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20NLP%20%7C%20XAI%20%7C%20Computer%20Vision%20%7C%20Forecasting&descAlignY=58&descColor=e1f5ee&descSize=16)
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+systems+that+explain+themselves.;Multimodal+AI+%7C+NLP+%7C+Forecasting+%7C+XAI;Open+to+internships+%26+remote+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=Building+systems+that+explain+themselves.;Multimodal+AI+%7C+NLP+%7C+Explainable+AI+%7C+Forecasting;Presented+at+MIT+Bengaluru+%E2%80%94+Turinger%2724;Open+to+internships+%26+remote+ML+roles+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=npranathi1&color=1d9e75&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## Who I am
+## `class Pranathi:`
 
-I'm a 3rd-year CSE (AI & ML) student at Global Academy of Technology, Bengaluru — and I build ML systems that actually work in the real world, not just in notebooks. My focus: making models that are accurate *and* interpretable. I care deeply about explainability, which is rare. I presented research at MIT Bengaluru (Turinger'24) and I'm always working on something new.
+```python
+class Pranathi:
+    name        = "Pranathi N"
+    role        = ["AI & ML Engineer", "XAI Researcher"]
+    education   = "B.Tech CSE (AI & ML) @ Global Academy of Technology, Bengaluru"
+    goal        = "Internship / Remote ML Role — 2025"
+    interests   = ["Explainable AI", "Multimodal Systems", "NLP", "Forecasting"]
+    currently   = {
+        "building"  : "MoodScript — multimodal emotion AI with LIME explainability",
+        "learning"  : "Agentic AI, RAG systems, Vision Transformers",
+        "streak"    : "committing every day",
+    }
+    achievement = "Research Poster @ MIT Bengaluru — Turinger'24"
+    contact     = "pranathi1ga23ci039@gmail.com"
+```
 
-Currently building **MoodScript** — a multimodal AI that reads your face and your words at the same time to understand emotion, then generates personalized, therapy-style responses. Yes, it uses LIME to explain itself.
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranathi--n--aiml-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranathi-n-aiml)
+[![Gmail](https://img.shields.io/badge/Gmail-pranathi1ga23ci039-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranathi1ga23ci039@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-npranathi1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/npranathi1)
+
+</div>
 
 ---
 
 ## Tech Stack
 
-```python
-skills = {
-    "Languages":        ["Python", "SQL"],
-    "ML/DL":            ["Scikit-Learn", "XGBoost", "TensorFlow", "Keras", "LSTMs", "CNNs"],
-    "NLP & GenAI":      ["DistilRoBERTa", "LLM Integration", "RAG", "Sentiment Analysis"],
-    "Computer Vision":  ["OpenCV", "Vision Transformers (ViT)", "DeepFace"],
-    "XAI":              ["SHAP", "LIME"],
-    "Forecasting":      ["ARIMA", "Prophet", "XGBoost", "LSTM", "Time Series Engineering"],
-    "Infra & APIs":     ["FastAPI", "Streamlit", "MongoDB Atlas", "SQLite", "Git"]
-}
-```
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML / Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-007396?style=for-the-badge&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-1D9E75?style=for-the-badge&logoColor=white)
+
+**NLP & Generative AI**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM%20Integration-6B4FBB?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0F6E56?style=for-the-badge&logoColor=white)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ViT](https://img.shields.io/badge/Vision%20Transformers-FF6F00?style=for-the-badge&logoColor=white)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🧠 MoodScript — Multimodal Emotion-Aware AI *(ongoing)*
-> *ViT facial recognition + DistilRoBERTa text sentiment → fused, explained, responded to*
-
-- Weighted late fusion of vision and language signals with conflict resolution
-- LIME-based explainability so you can see *why* a mood was detected
-- Groq LLaMA 3.3 generates personalized therapy-style responses
-- **Stack:** ViT, DistilRoBERTa, LIME, Groq, Python
-
----
-
-### 📈 Air Quality Index Prediction — Hybrid XGBoost + LSTM
-> *Achieved **R² = 0.982** on AQI forecasting using a hybrid deep learning + tree-based pipeline*
-
-- Engineered lag, rolling, and temporal features from raw sensor data
-- SHAP analysis to identify which pollutants and time windows drive predictions
-- **Stack:** XGBoost, LSTM, SHAP, Keras
-
----
-
-### 🎰 BanditOS — Real-Time Decision Optimization Engine
-> *Thompson Sampling-based adaptive system for real-time user allocation*
-
-- Reinforcement learning with click-reward feedback loop
-- Live APIs and monitoring dashboard via MongoDB Atlas
-- **Stack:** Thompson Sampling, FastAPI, MongoDB Atlas
-
----
-
-### 🔍 ML Failure Analyzer & Explainable AI Dashboard
-> *Because knowing a model is wrong isn't enough — you need to know *why* it's wrong*
-
-- Multi-model comparison (Logistic Regression, RF, XGBoost) with SHAP interpretation
-- Misclassification analysis and feature-level failure pattern detection
-- **Stack:** Streamlit, XGBoost, SHAP, Scikit-Learn
-
----
-
-### 📦 End-to-End Sales Forecasting System
-> *Automated pipeline that picks the best model for each dataset — no manual tuning*
-
-- ARIMA, Prophet, XGBoost, LSTM with RMSE-based auto model selection
-- Time-series feature engineering + FastAPI deployment
-- **Stack:** ARIMA, Prophet, LSTM, FastAPI
+| Project | Description | Stack | Highlight |
+|--------|-------------|-------|-----------|
+| 🧠 **MoodScript** *(ongoing)* | Multimodal emotion AI — ViT face recognition + DistilRoBERTa NLP fused with LIME explainability | ViT · DistilRoBERTa · LIME · Groq | Therapy-style responses |
+| 📈 **AQI Prediction** | Hybrid XGBoost + LSTM air quality forecasting with SHAP analysis | XGBoost · LSTM · SHAP · Keras | **R² = 0.982** |
+| 🎰 **BanditOS** | Real-time decision engine using Thompson Sampling + RL-based click-reward optimization | FastAPI · MongoDB · Thompson Sampling | Live monitoring dashboard |
+| 🔍 **ML Failure Analyzer** | Streamlit XAI dashboard — misclassification analysis + SHAP feature-level failure detection | XGBoost · SHAP · Streamlit | Multi-model comparison |
+| 📦 **Sales Forecasting** | End-to-end pipeline with auto model selection (ARIMA, Prophet, XGBoost, LSTM) via RMSE | FastAPI · ARIMA · Prophet · LSTM | Auto model selection |
 
 ---
 
@@ -86,11 +93,24 @@ skills = {
 
 <div align="center">
 
-![Pranathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=npranathi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=npranathi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npranathi1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9&langs_count=6" width="41%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npranathi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=npranathi1&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=npranathi1&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=1d9e75" width="60%" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Pranathi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=npranathi1&bg_color=0d1117&color=1d9e75&line=1d9e75&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -98,49 +118,14 @@ skills = {
 
 ## Achievements
 
-- 🎤 Research Poster Presentation — **MIT Bengaluru** (Turinger'24)
-- 💻 IBM Z Datathon Participant
-- 🛠 Student Coordinator — College Technical Club
-
----
-
-## Currently
-
-- 🔨 Finishing **MoodScript** (multimodal emotion AI)
-- 📚 Deepening knowledge in Agentic AI and RAG systems
-- 👀 Open to **internships** and **remote ML/AI roles**
-
----
-
-## Let's connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranathi--n--aiml-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranathi-n-aiml)
-[![Email](https://img.shields.io/badge/Email-pranathi1ga23ci039%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranathi1ga23ci039@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-npranathi1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/npranathi1)
-
-</div>
+🎤 Research Poster Presentation — **MIT Bengaluru** (Turinger'24)  
+💻 IBM Z Datathon Participant  
+🛠 Student Coordinator — College Technical Club  
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=120&section=footer)
 
 </div>
-
-<!--
-**npranathi1/npranathi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
