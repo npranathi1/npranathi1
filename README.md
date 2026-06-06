@@ -110,19 +110,9 @@ class Pranathi:
 
 💻 **IBM Z Datathon** Participant
 
-🛠 **Student Coordinator** 
-
----
-
-## Certifications
-
 🔐 **Deloitte** — Cyber Security Job Simulation
 
-🌱 **Infosys Springboard** — ML & AI, Python Certifications
-
-💻 **IBM** — Z Datathon Participation
-
----
+🛠 **Student Coordinator** 
 
 <div align="center">
 
