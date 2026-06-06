@@ -25,7 +25,7 @@
 class Pranathi:
     name        = "Pranathi N"
     role        = ["AI & ML Engineer", "XAI Enthusiast"]
-    education   = "B.Tech CSE (AI & ML) @ GAT Bengaluru"
+    education   = "B.Tech CSE (AI & ML) @ GAT Bengaluru  |  CGPA: 8.7"
     goal        = "Internships / Remote ML Role — 2026"
 
     interests   = [
@@ -37,7 +37,7 @@ class Pranathi:
 
     currently   = {
         "building"  : "MoodScript — multimodal emotion AI with LIME explainability",
-        "learning"  : "Agentic AI, XAI, Vision Transformers"
+        "learning"  : "Agentic AI, XAI, Vision Transformers",
     }
 
     achievement = "Research Poster Presentation — MIT Bengaluru, Turinger'24"
@@ -60,6 +60,9 @@ class Pranathi:
 ![XGBoost](https://img.shields.io/badge/XGBoost-007396?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge&logoColor=white)
+![LSTMs](https://img.shields.io/badge/LSTMs-007396?style=for-the-badge&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-6B4FBB?style=for-the-badge&logoColor=white)
 
 **Explainable AI**
 
@@ -71,17 +74,20 @@ class Pranathi:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-6B4FBB?style=for-the-badge&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-343434?style=for-the-badge&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-D4537E?style=for-the-badge&logoColor=white)
 
 **Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ViT](https://img.shields.io/badge/Vision%20Transformers-FF6F00?style=for-the-badge&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-181717?style=for-the-badge&logoColor=white)
 
 **Frameworks & Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -104,8 +110,17 @@ class Pranathi:
 
 💻 **IBM Z Datathon** Participant
 
-🛠 **Student Coordinator** — College Cultural Club
+🛠 **Student Coordinator** 
 
+---
+
+## Certifications
+
+🔐 **Deloitte** — Cyber Security Job Simulation
+
+🌱 **Infosys Springboard** — ML & AI, Python Certifications
+
+💻 **IBM** — Z Datathon Participation
 
 ---
 
