@@ -26,18 +26,21 @@ class Pranathi:
     name        = "Pranathi N"
     role        = ["AI & ML Engineer", "XAI Enthusiast"]
     education   = "B.Tech CSE (AI & ML) @ GAT Bengaluru  |  CGPA: 8.77"
-    goal        = "Internships / Remote ML Role — 2026"
+    goal        = "Internship / Remote ML Role — 2025"
 
     interests   = [
         "Explainable AI  — making black boxes transparent",
         "Multimodal Systems  — when vision meets language",
         "Real-time Decision Systems  — RL in the wild",
-        "Time Series Forecasting  — predicting what comes next",  ]
+        "Time Series Forecasting  — predicting what comes next",
+    ]
 
     currently   = {
         "building"  : "MoodScript — multimodal emotion AI with LIME explainability",
-        "learning"  : "Agentic AI, XAI, Vision Transformers",
-       
+        "learning"  : "Agentic AI, RAG pipelines, Vision Transformers",
+        "proud_of"  : "R² = 0.982 on AQI forecasting with hybrid XGBoost+LSTM",
+    }
+
     achievement = "Research Poster Presentation — MIT Bengaluru, Turinger'24"
     open_to     = ["internships", "remote ML roles", "research collaborations"]
     contact     = "pranathi1ga23ci039@gmail.com"
@@ -86,103 +89,25 @@ class Pranathi:
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 MoodScript *(ongoing)*
-> Multimodal emotion AI that reads your face and your words simultaneously
-
-- ViT-based facial recognition + DistilRoBERTa text analysis
-- Weighted late fusion with conflict resolution between modalities
-- **LIME explainability** — shows *why* a mood was detected
-- Groq LLaMA 3.3 generates therapy-style responses
-
-`ViT` `DistilRoBERTa` `LIME` `Groq` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 AQI Forecasting — Hybrid XGBoost + LSTM
-> **R² = 0.982** on air quality prediction
-
-- Hybrid deep learning + gradient boosting pipeline
-- Engineered lag, rolling, and temporal features
-- SHAP analysis to interpret which pollutants matter most
-- Outperforms standalone LSTM and standalone XGBoost
-
-`XGBoost` `LSTM` `SHAP` `Keras` `Feature Engineering`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎰 BanditOS — Real-Time Decision Engine
-> Thompson Sampling for adaptive user allocation at runtime
-
-- Reinforcement learning with live click-reward feedback loop
-- REST APIs with real-time performance monitoring
-- MongoDB Atlas dashboard for system analytics
-
-`Thompson Sampling` `FastAPI` `MongoDB` `Reinforcement Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 ML Failure Analyzer & XAI Dashboard
-> Because knowing a model is wrong isn't enough — you need to know *why*
-
-- Multi-model comparison: Logistic Regression, RF, XGBoost
-- SHAP-based feature-level failure pattern detection
-- Misclassification analysis with drill-down visualization
-
-`Streamlit` `XGBoost` `SHAP` `Scikit-Learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 End-to-End Sales Forecasting
-> Automated pipeline that selects the best model per dataset
-
-- ARIMA, Prophet, XGBoost, LSTM with RMSE-based auto selection
-- Full time-series feature engineering pipeline
-- Deployed via FastAPI for prediction serving
-
-`ARIMA` `Prophet` `LSTM` `FastAPI` `Time Series`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 Achievements
-<br>
-
-🎤 **Research Poster — MIT Bengaluru** (Turinger'24)
-
-💻 **IBM Z Datathon** Participant
-
-🛠 **Student Coordinator** — College Cultural Club
-
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧠 **MoodScript** *(ongoing)* | Multimodal emotion AI — ViT face recognition + DistilRoBERTa NLP, weighted late fusion, LIME explainability, Groq LLaMA 3.3 therapy-style responses | `ViT` `DistilRoBERTa` `LIME` `Groq` |
+| 🎰 **BanditOS** | Real-time decision engine using Thompson Sampling + RL click-reward feedback loop. Live MongoDB Atlas dashboard | `Thompson Sampling` `FastAPI` `MongoDB` |
+| 🔍 **ML Failure Analyzer** | XAI dashboard — multi-model comparison, SHAP feature-level failure detection, misclassification drill-down | `Streamlit` `XGBoost` `SHAP` `Scikit-Learn` |
+| 📈 **AQI Forecasting** | Hybrid XGBoost + LSTM forecasting pipeline — **R² = 0.982**. Lag/rolling/temporal features + SHAP analysis | `XGBoost` `LSTM` `SHAP` `Keras` |
+| 📦 **Sales Forecasting** | End-to-end pipeline with RMSE-based auto model selection across ARIMA, Prophet, XGBoost, LSTM. Deployed via FastAPI | `ARIMA` `Prophet` `LSTM` `FastAPI` |
 
 ---
 
-## GitHub Stats
+## Achievements
 
-> ⚠️ *Stats load from github-readme-stats — if you see broken images, they may be temporarily rate-limited. Refresh in a few minutes.*
+🎤 **Research Poster Presentation — MIT Bengaluru** (Turinger'24)
 
-<div align="center">
+💻 **IBM Z Datathon** Participant
 
-[![Pranathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=npranathi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/npranathi1)
+🛠 **Student Coordinator** — College Technical Club
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npranathi1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/npranathi1)
-
-</div>
+📊 **CGPA: 8.77** @ Global Academy of Technology, Bengaluru
 
 ---
 
