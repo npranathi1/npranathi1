@@ -38,6 +38,7 @@ class Pranathi:
     currently   = {
         "building"  : "MoodScript — multimodal emotion AI with LIME explainability",
         "learning"  : "Agentic AI, XAI, Vision Transformers",
+        "internship": "AI Intern @ DecodeLabs — building weekly AI projects"
     }
 
     achievement = "Research Poster Presentation — MIT Bengaluru, Turinger'24"
@@ -103,6 +104,11 @@ class Pranathi:
 | 📦 **Sales Forecasting** | End-to-end pipeline with RMSE-based auto model selection across ARIMA, Prophet, XGBoost, LSTM. Deployed via FastAPI | `ARIMA` `Prophet` `LSTM` `FastAPI` |
 
 ---
+## Current Internship Work
+
+| Internship | Focus | Repository |
+|-----------|-------|------------|
+| DecodeLabs AI Internship | Weekly AI projects starting with a rule-based chatbot using Python, dictionaries, input preprocessing, and control flow | [View Repo](https://github.com/npranathi1/DecodeLabs-AI-Internship) |
 
 ## Achievements
 
