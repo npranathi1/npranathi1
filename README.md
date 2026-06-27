@@ -124,6 +124,6 @@ class Pranathi:
 
 *"I don't just build models that work — I build models that explain themselves."*
 
-**Open to internships & remote ML roles · Bengaluru, India 🇮🇳**
+**Open to internships & remote AI/ML roles · Bengaluru, India 🇮🇳**
 
 </div>
